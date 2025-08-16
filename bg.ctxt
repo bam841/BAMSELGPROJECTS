@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=bg
+comment1.params=
+comment1.target=bg()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ started()
+comment4.params=
+comment4.target=void\ stopped()
+comment5.params=
+comment5.target=void\ spawnEnemies()
+comment6.params=
+comment6.target=void\ prepare()
+comment7.params=
+comment7.target=void\ loseLife()
+comment8.params=
+comment8.target=void\ updateHeartPositions()
+numComments=9
