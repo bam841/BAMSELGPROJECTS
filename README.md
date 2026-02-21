@@ -1,2 +1,2 @@
 # BAMSELGPROJECTS
-THESE ARE SELF PROJECTS THAT I'VE   MADE  ALL THROUGHOUT
+game project made with java greenfoot
